@@ -6,7 +6,7 @@ Our autocomplete will take an arbitrary array of text values; in our case, US st
 
 It will then append each matching item as a `li` element in a `ul` directly below the input. The `ul` must be cleared and re-built on every key stroke. Additionally, the user can use the mouse to click a suggestion and their input will be "completed".
 
-[https://codehike.co](https://codehike.co)
+[https://getjsdojo.com](https://getjsdojo.com)
 
 ##Licence
 
